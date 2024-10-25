@@ -47,7 +47,7 @@ float batteryVoltage;
 const char* ssid = "SSID_NAME";                                                       // ## INSERT your wlan ssid
 const char* password = "PASSWORD";                                                // ## INSERT your password
 const char* OPENAI_KEY = "***************************************";  // ## optionally (needed for Open AI voices): INSERT your OpenAI key
-const char* gemini_KEY = "AIzaSyCFS-_mjqpHSZVF4VVThjfvUPHXXWaaGsA";                   //gemini api
+const char* gemini_KEY = "Your_GEMINI_API_KEY";                   //gemini api
 #define TTS_MODEL 0                                                                   // 1 = OpenAI TTS; 0 = Google TTS
 
 
